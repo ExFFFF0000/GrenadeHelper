@@ -5,6 +5,8 @@ Help the player throw grenades
 ## TODO
   Save Point to json  
   Auto ChangeMap  
+  Determine if the handheld is a grenade
+  Aiming at the target point
 ## USE
 Offsets [cs2-dumper](https://github.com/a2x/cs2-dumper)   
 Json  [nlohmann/json](https://github.com/nlohmann/json)  

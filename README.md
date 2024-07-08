@@ -1,6 +1,5 @@
 # CS2 GrenadeHelper
-
-
+Help the player throw grenades
 ## screenshot
 ![screenshot](screenshot.png) 
 ## TODO
